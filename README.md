@@ -24,5 +24,3 @@
 <p align="justify">The world will be of the programmers and I want to be part of that world..</p>
 
 <br/>
-<p align="center"><img align="center" src="https://github.com/Luis1940-bot/Luis1940-bot/blob/main/README.md" alt="Luis1940-bot" /></p>
-<br/>
